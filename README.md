@@ -12,6 +12,18 @@
   <a href="https://leetcode.com/u/Aditya_Mohan_Gupta02/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codesandbox&label=&color=FFFF00&logoColor=000000&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
   </a>
+  <a href="https://codeforces.com/profile/Aditya_Mohan_Gupta" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+  </a>
+  <a href="https://www.codechef.com/users/aditya_mohan02" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=6B3A2B&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aditya203rcs/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="geeksforgeeks logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aditya_gupta_cs3" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+  </a>
   </div>
 
 ###
