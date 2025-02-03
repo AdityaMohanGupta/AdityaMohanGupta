@@ -81,8 +81,7 @@
 # 📊 GitHub Stats:
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamohangupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adityamohangupta" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMohanGupta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AdityaMohanGupta's GitHub Stats" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamohangupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adityamohangupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohangupta&theme=tokyonight" alt="adityamohangupta" /></p>
